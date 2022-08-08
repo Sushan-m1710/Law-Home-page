@@ -7,7 +7,7 @@ Built With
 - Css
 
 Learnings
-- Lernt How to make a text and image next to each other.
+- Learnt how to add images and its properties in this project
 
 Time taken to complete
 - 3 hours
